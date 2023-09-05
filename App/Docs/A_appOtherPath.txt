@@ -1,0 +1,9 @@
+[name]
+A_appOtherPath
+[type]
+Path (relative to script folder)
+[options]
+None
+[desc]
+Relative path to Other folder.
+Currently is used for script output files, like the energy reports.

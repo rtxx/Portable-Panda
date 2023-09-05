@@ -1,0 +1,8 @@
+[name]
+A_scriptIcon
+[type]
+Path (relative to script folder)
+[options]
+None
+[desc]
+Relative path to script icon.

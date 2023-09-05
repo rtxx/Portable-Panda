@@ -1,0 +1,8 @@
+[name]
+A_ShowAbout
+[type]
+Bool
+[options]
+TRUE, FALSE
+[desc]
+Enable or disables tab with about info.

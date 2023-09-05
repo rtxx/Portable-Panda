@@ -1,0 +1,8 @@
+[name]
+DOCUMENTEDITOR
+[type]
+Path (relative to Applications folder)
+[options]
+None
+[desc]
+RELATIVE path to document application, such as LibreOffice Writer.

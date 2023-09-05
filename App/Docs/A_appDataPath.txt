@@ -1,0 +1,9 @@
+[name]
+A_appDataPath
+[type]
+Path (relative to script folder)
+[options]
+None
+[desc]
+Relative path to App folder.
+Currently is used for script Docs and other useful files, like the icon.

@@ -1,0 +1,9 @@
+[name]
+A_HideScriptSettings
+[type]
+Bool
+[options]
+TRUE, FALSE
+[desc]
+Enable or disables script settings changes.
+These options can make the script unusable, so be careful!

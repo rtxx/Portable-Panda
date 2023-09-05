@@ -1,0 +1,9 @@
+[name]
+MEDIAPLAYER
+[type]
+List
+[options]
+Extensions separated with a pipe '|'
+[desc]
+These are the type of file extensions that the media player application, such as VLC, will open.
+Example: mp3|mp4

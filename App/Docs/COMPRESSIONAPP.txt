@@ -1,0 +1,8 @@
+[name]
+COMPRESSIONAPP
+[type]
+Path (relative to Applications folder)
+[options]
+None
+[desc]
+RELATIVE path to compression application, such as 7zip.

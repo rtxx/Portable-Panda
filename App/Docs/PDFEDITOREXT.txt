@@ -1,0 +1,9 @@
+[name]
+TEXTEDITOREXT
+[type]
+List
+[options]
+Extensions separated with a pipe '|'
+[desc]
+These are the type of file extensions that the pdf viewer application, such as Sumatra, will open.
+Example: pdf

@@ -1,0 +1,8 @@
+[name]
+TEXTEDITOR
+[type]
+Path (relative to Applications folder)
+[options]
+None
+[desc]
+Relative path to text editor, such as Notepad++.

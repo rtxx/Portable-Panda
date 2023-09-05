@@ -1,0 +1,9 @@
+[name]
+A_ahkExe
+[type]
+Path (relative to script folder)
+[options]
+None
+[desc]
+Relative path to AHK executable.
+This path will run all .ahk files in the applications folder.

@@ -1,0 +1,9 @@
+[name]
+A_ApplicationsPath
+[type]
+Path (relative to script folder)
+[options]
+None
+[desc]
+Relative path to Applications folder.
+It's where the script scans for portable applications and shows them on the menu.

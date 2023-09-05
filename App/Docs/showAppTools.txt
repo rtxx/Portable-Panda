@@ -1,0 +1,8 @@
+[name]
+A_showAppTools
+[type]
+Bool
+[options]
+TRUE,FALSE
+[desc]
+Enable or disable script built in misc. tools, such as 'Get external IPV4', energy reports or 'God Mode'.

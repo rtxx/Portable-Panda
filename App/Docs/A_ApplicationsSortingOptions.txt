@@ -1,0 +1,10 @@
+[name]
+A_ApplicationsSortingOptions
+[type]
+String
+[options]
+None,R
+[desc]
+Changes how the applications are sorted.
+  -> Empty means alphabetic (A-Z)
+  -> R means reverse alphabetic (Z-A)

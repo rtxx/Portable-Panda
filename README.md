@@ -1,4 +1,4 @@
-![Logo](https://via.placeholder.com/885x185/8020A0/FFFFFF?text=PortablePanda)
+![Logo](https://placehold.co/855x185/EEE/31343C?font=raleway&text=Portable%20Panda)
 
 # Portable Panda
 

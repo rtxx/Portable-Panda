@@ -1,0 +1,9 @@
+[name]
+DOCUMENTEDITOREXT
+[type]
+List
+[options]
+Extensions separated with a pipe '|'
+[desc]
+These are the type of file extensions that the document application, such as LibreOffice Writer, will open.
+Example: doc|docx

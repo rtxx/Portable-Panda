@@ -1,0 +1,9 @@
+[name]
+TEXTEDITOREXT
+[type]
+List
+[options]
+Extensions separated with a pipe '|'
+[desc]
+These are the type of file extensions that the text editor application, such as Notepad++, will open.
+Example: txt|ahk|ps1

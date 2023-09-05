@@ -1,0 +1,18 @@
+[name]
+A_enableHotkeys
+[type]
+Bool
+[options]
+TRUE,FALSE
+[desc]
+Enable or disable script hotkeys.
+-> Windows + j
+  Open current user download folder
+-> Windows + Esc
+  Closes current open window
+-> Windows + Spacebar or Windows + Middle Mouse Button
+  Toggle active window always on top.
+-> Shift+Enter
+   Opens with the default app on settings.ini
+-> F1
+  Opens app search window

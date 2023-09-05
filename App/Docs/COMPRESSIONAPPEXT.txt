@@ -1,0 +1,9 @@
+[name]
+COMPRESSIONAPPEXT
+[type]
+List
+[options]
+Extensions separated with a pipe '|'
+[desc]
+These are the type of file extensions that the compression application, such as 7zip, will open.
+Example: zip|rar
